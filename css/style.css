@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto Mono', sans-serif;
+    padding: 80px 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.ship {
+    width: 200px;
+    margin-left: calc(50% - 100px);
+    margin-bottom: 80px;
+}
+
+section {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 80px;
+    padding-bottom: 80px;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+}
+
+article {
+    width: 40%;
+}
+
+figure {
+    width: 45%;
+}
